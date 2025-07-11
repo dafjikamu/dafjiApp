@@ -1,0 +1,12 @@
+1, Open the extension. | - | Welcome Back screen appears.
+2, Proceed to Unlock the wallet. | password (min 8 chars) | Ether balance & address show; selected network is Ethereum Mainnet.
+3, Switch networks to a test network. | e.g., Sepolia | Sepolia balance & address show; selected network is Sepolia.
+4, Open https://dafjiapp.github.io/test-dapp/ in another tab. |
+5, Connect with dafjiApp using current account. |
+6, Deploy NFT contract and confirm tx completion. |
+7, Mint NFTs (at least 3 if watching token ID #3). |
+8, Confirm minting tx completion. |
+9a-Switch to wallet activity list; check details: status/recipient/nonce/gas/total.
+9b-View transaction on block explorer via new tab.
+10-In dApp enter NFT ID (#3 example). 
+11-Watch NFT and confirm addition as custom token in wallet UI showing image (if OpenSea API enabled).
