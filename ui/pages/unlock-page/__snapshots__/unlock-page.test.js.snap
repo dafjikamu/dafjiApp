@@ -1,0 +1,58 @@
+<div>
+  <div class="mm-box flex-col justify-center items-center w-full bg-background-default pb-12">
+    <form class="mm-box unlock-page flex-col justify-center items-center w-full p-4" data-testid="unlock-page">
+      <div class="mm-box flex-col items-center w-full">
+        <div class="mm-box unlock-page__mascot-container mb-0">
+          <div style="z-index: 0;">
+            <svg />
+          </div>
+        </div>
+        <h1 class="mm-box text-display-md font-medium text-center mb-12 text-text-default" data-testid="unlock-page-title">
+          Welcome back
+        </h1>
+        <div class="mm-box form-text-field mb-4 w-full">
+          <div class="mm-box text-field size-lg focused truncate text-field__text-field inline-flex align-items-center bg-background-default rounded-lg border-width-1 border-style-solid pr-0 pl-0" tabindex="-1" aria-label="">
+            <input aria-label="Password" autocomplete="on" class="mm-box input disable-state-styles text-field__input body-md m-0 p-0 pr-4 pl-4 text-text-default bg-transparent border-style-none" data-testid="unlock-password" id="" placeholder="" type="" value="" />
+          </div>
+        </div>
+        <button class="mm-box button-base size-lg disabled block button-primary disabled primary-disabled text-body-md-medium inline-flex justify-center align-items-center color-icon-inverse bg-icon-default rounded-xl px-4 py-0 mr-0 ml-auto mb-auto mt-auto cursor-notallowed min-w-fit min-h-fit focus:outline-none focus-visible:ring-offset-color-white focus-visible:ring-offset-background-neutral focus-visible:ring-outline ring-outline-light ring-offset-width-normal ring-width-normal active:bg-icon-hover-light active:text-icon-inverse-hover-light hover:bg-icon-hover-light hover:text-icon-inverse-hover-light transition duration-[.3s] ease-in-out disabled:pointer-events-none disabled:bg-icon-disabled-disabled disabled:text-color-disabled-disabled enabled:hover:bg-button-primary enabled:hover:text-button-primary-focus enabled:focus-visible:ring-offset-background-neutral enabled:focus-visible:ring-outline enabled:focus-visible:ring-offset-width-normal enabled:focus-visible:ring-width-normal"
+          data-testid="unlock-submit"
+          type=""
+          value=""
+          disabled="">
+            Unlock
+         </button>
+         <button type="" value=""
+           class="
+             mm-box 
+             mm-text 
+             mm-button-base 
+             mm-button-link 
+             mm-button-link--size-auto 
+             mm-text--body-md-medium 
+             mm-box--margin-bottom6  
+              box--padding-right0  
+               box--padding-left0  
+                box--display-inline-flex  
+                 box--justify-contentcenter  
+                  box--align-itemstext-aligncenter  
+                   color-primary-defaulthovercolorprimaryhoverdefault background-colortransparenthoverbackground-colortransparentfocusbackground-colortransparentactivebackground-colortransparentdisabledbackground-colo
+           "
+           data-testid= "unlock-forgot-password-button"
+           >
+              Forgot password?
+         </button>
+
+      
+
+
+      Need help? Contact
+
+      
+
+
+      [dafjiApp support](https://support.dafjiapp.io)
+      
+      
+    </form>
+  </div>unload;
